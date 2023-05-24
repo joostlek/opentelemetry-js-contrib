@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.35.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.34.3...instrumentation-mongodb-v0.35.0) (2023-05-24)
+
+
+### Features
+
+* **mongodb:** collect mongodb4 metrics ([#1170](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1170)) ([988e1f8](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/988e1f8ea5fbce055d8ef73e40827f750da935d6))
+
 ## [0.34.3](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.34.2...instrumentation-mongodb-v0.34.3) (2023-05-16)
 
 
